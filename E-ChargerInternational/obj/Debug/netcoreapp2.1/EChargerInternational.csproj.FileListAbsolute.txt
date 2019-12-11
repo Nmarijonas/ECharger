@@ -230,3 +230,6 @@ C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternat
 C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CopyComplete
 C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Delete.g.cshtml.cs
 C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Edit.g.cshtml.cs

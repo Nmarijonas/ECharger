@@ -1,0 +1,42 @@
+﻿@model EChargerInternational.EChargerInternational.Atsiliepimas
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Atsiliepimas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Aprasymas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aprasymas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FkAiksteleidAiksteleNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FkAiksteleidAiksteleNavigation.Aprasymas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FkKlientasidKlientasNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FkKlientasidKlientasNavigation.Aprasymas)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdAtsiliepimas">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

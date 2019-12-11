@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace E_ChargerInternational.Controllers
 {
-    public class AtsiliepimaiController : Controller
+    public class AtsiliepimaiControllerOLD : Controller
     {
         public IActionResult Index()
         {
