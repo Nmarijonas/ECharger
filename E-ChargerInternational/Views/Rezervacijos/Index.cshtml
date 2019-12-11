@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Rezervacijos</h2>
+Čia bus rezervacijos.
+<div><a href="@Url.Action("Create", "Rezervacijos")">KURTI</a></div> <div><a href="#">Filtruoti</a></div>
+<table class="table">
+    <tr>
+        <td>Pavadinimas</td>
+        <td><a href="@Url.Action("Delete", "Rezervacijos")">Trinti</a> <a href="@Url.Action("Edit", "Rezervacijos")">Keisti</a></td>
+    </tr>
+</table>

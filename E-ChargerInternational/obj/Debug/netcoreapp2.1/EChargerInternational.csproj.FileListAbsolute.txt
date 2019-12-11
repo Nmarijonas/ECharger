@@ -1,0 +1,232 @@
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.deps.json
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.json
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.dev.json
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.dll
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csprojAssemblyReference.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CoreCompileInputs.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfoInputs.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfo.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.input.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.output.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorCoreGenerate.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Edit.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\DetailedView.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Edit.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Edit.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundai\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Edit.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cache
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CopyComplete
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Delete.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Delete.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Index.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Create.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Edit.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Delete.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Login.g.cshtml.cs
+C:\Users\erikun\Documents\Shit and stuff\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Register.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.deps.json
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.json
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.dev.json
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.dll
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csprojAssemblyReference.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CoreCompileInputs.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfoInputs.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.input.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.output.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorCoreGenerate.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\DetailedView.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Login.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Register.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cache
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CopyComplete
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.deps.json
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.json
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.runtimeconfig.dev.json
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.dll
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\bin\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csprojAssemblyReference.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CoreCompileInputs.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorAssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfoInputs.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.AssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.input.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.TagHelpers.output.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorCoreGenerate.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Administratoriai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\AsmeninesStoteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Atsiliepimai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\DetailedView.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Login.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Naudotojai\Register.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Remejai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Rezervacijos\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundai\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Details.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Skundas\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Create.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Edit.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Stoteles\Index.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cache
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.RazorTargetAssemblyInfo.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.Views.pdb
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.dll
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.pdb
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\EChargerInternational.csproj.CopyComplete
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Delete.g.cshtml.cs
+C:\Users\Nmarijonas\Desktop\ISPagrindai\E-ChargerInternational\E-ChargerInternational\obj\Debug\netcoreapp2.1\Razor\Views\Aiksteles\Details.g.cshtml.cs

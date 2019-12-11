@@ -1,0 +1,106 @@
+﻿@model EChargerInternational.EChargerInternational.Aikstele
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Aikstele</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Pavadinimas" class="control-label"></label>
+                <input asp-for="Pavadinimas" class="form-control" />
+                <span asp-validation-for="Pavadinimas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelefonoNumeris" class="control-label"></label>
+                <input asp-for="TelefonoNumeris" class="form-control" />
+                <span asp-validation-for="TelefonoNumeris" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DarboPradzia" class="control-label"></label>
+                <input asp-for="DarboPradzia" class="form-control" />
+                <span asp-validation-for="DarboPradzia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DarboPabaiga" class="control-label"></label>
+                <input asp-for="DarboPabaiga" class="form-control" />
+                <span asp-validation-for="DarboPabaiga" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Saugoma" class="control-label"></label>
+                <input asp-for="Saugoma" class="form-control" />
+                <span asp-validation-for="Saugoma" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElektrosKaina" class="control-label"></label>
+                <input asp-for="ElektrosKaina" class="form-control" />
+                <span asp-validation-for="ElektrosKaina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PapildomasMokestis" class="control-label"></label>
+                <input asp-for="PapildomasMokestis" class="form-control" />
+                <span asp-validation-for="PapildomasMokestis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PapildomoMokescioAprasymas" class="control-label"></label>
+                <input asp-for="PapildomoMokescioAprasymas" class="form-control" />
+                <span asp-validation-for="PapildomoMokescioAprasymas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Miestas" class="control-label"></label>
+                <input asp-for="Miestas" class="form-control" />
+                <span asp-validation-for="Miestas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gatve" class="control-label"></label>
+                <input asp-for="Gatve" class="form-control" />
+                <span asp-validation-for="Gatve" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamoNr" class="control-label"></label>
+                <input asp-for="NamoNr" class="form-control" />
+                <span asp-validation-for="NamoNr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KoordinateX" class="control-label"></label>
+                <input asp-for="KoordinateX" class="form-control" />
+                <span asp-validation-for="KoordinateX" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KoordinateY" class="control-label"></label>
+                <input asp-for="KoordinateY" class="form-control" />
+                <span asp-validation-for="KoordinateY" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PastoKodas" class="control-label"></label>
+                <input asp-for="PastoKodas" class="form-control" />
+                <span asp-validation-for="PastoKodas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aprasymas" class="control-label"></label>
+                <input asp-for="Aprasymas" class="form-control" />
+                <span asp-validation-for="Aprasymas" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="IdAikstele" />
+            <div class="form-group">
+                <label asp-for="FkKlientasidKlientas" class="control-label"></label>
+                <select asp-for="FkKlientasidKlientas" class="form-control" asp-items="ViewBag.FkKlientasidKlientas"></select>
+                <span asp-validation-for="FkKlientasidKlientas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,125 @@
+﻿@model IEnumerable<EChargerInternational.EChargerInternational.Aikstele>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pavadinimas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TelefonoNumeris)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DarboPradzia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DarboPabaiga)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Saugoma)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElektrosKaina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PapildomasMokestis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PapildomoMokescioAprasymas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Miestas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gatve)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NamoNr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KoordinateX)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KoordinateY)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PastoKodas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aprasymas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FkKlientasidKlientasNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pavadinimas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelefonoNumeris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DarboPradzia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DarboPabaiga)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Saugoma)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElektrosKaina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PapildomasMokestis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PapildomoMokescioAprasymas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Miestas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gatve)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NamoNr)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KoordinateX)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KoordinateY)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PastoKodas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aprasymas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FkKlientasidKlientasNavigation.Aprasymas)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAikstele">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAikstele">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAikstele">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

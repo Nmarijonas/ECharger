@@ -1,0 +1,114 @@
+﻿@model EChargerInternational.EChargerInternational.Aikstele
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Aikstele</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pavadinimas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pavadinimas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TelefonoNumeris)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TelefonoNumeris)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DarboPradzia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DarboPradzia)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DarboPabaiga)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DarboPabaiga)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Saugoma)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Saugoma)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ElektrosKaina)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ElektrosKaina)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PapildomasMokestis)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PapildomasMokestis)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PapildomoMokescioAprasymas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PapildomoMokescioAprasymas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Miestas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Miestas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Gatve)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Gatve)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NamoNr)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NamoNr)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.KoordinateX)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.KoordinateX)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.KoordinateY)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.KoordinateY)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PastoKodas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PastoKodas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Aprasymas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aprasymas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FkKlientasidKlientasNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FkKlientasidKlientasNavigation.Aprasymas)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdAikstele">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

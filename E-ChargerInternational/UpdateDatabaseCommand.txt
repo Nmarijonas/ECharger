@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=localhost;database=EChargerInternational;uid=root;password=" MySql.Data.EntityFrameworkCore -OutputDir EChargerInternational -f

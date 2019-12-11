@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div>Čia bus stotelės, priklausančios vartotojui</div> <div><a href="#">Filtruoti</a></div>
+<div><a href="@Url.Action("Create", "Stoteles")">KURTI</a></div>
+<table class="table">
+    <tr>
+        <td>Pavadinimas</td>
+        <td><a href="@Url.Action("Delete", "Stoteles")">Trinti</a> <a href="@Url.Action("Edit", "Stoteles")">Keisti</a></td>
+    </tr>
+</table>

@@ -1,0 +1,48 @@
+﻿@model EChargerInternational.EChargerInternational.Remejai
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Remejai</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pavadinimas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pavadinimas)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SkirtosLesos)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SkirtosLesos)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Salis)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Salis)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Aprasymas)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aprasymas)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdRemėjai">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
